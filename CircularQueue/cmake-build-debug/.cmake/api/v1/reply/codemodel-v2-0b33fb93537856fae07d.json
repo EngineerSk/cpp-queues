@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CircularQueue",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularQueue-Debug-8b0e95d22fdbae4ce113.json",
+					"name" : "CircularQueue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Queues/CircularQueue/cmake-build-debug",
+		"source" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Queues/CircularQueue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Queues/CircularQueue/cmake-build-debug/CMakeFiles/CircularQueue.dir
+/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Queues/CircularQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Queues/CircularQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
